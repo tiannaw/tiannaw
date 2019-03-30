@@ -7,6 +7,7 @@ nav ul li{
 body{
 
 	background-color:#FFD700;
+	
 }
 
 body{
@@ -66,5 +67,10 @@ li a:hover:not(.active) {
   <li><a href="#contact">Contact</a></li>
   <li style="float:right"><a href="#about">About</a></li>
 </ul>
+
+#pic {
+  position: absolute;
+  right: 0px;
+}
 
 
